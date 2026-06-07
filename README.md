@@ -134,12 +134,11 @@ NestJS · OpenAI · Cohere · Qdrant · Redis · Anthropic
 ## The Short Story
 
 ```txt
-Math teacher → 1337 Coding School → Freelance developer → Backend engineer
+1337 Coding School →  Math teacher → Freelance developer → Backend engineer
 ```
 
 I like solving difficult problems, building useful systems, and improving every project I touch.
 
-> Still solving problems — just with different tools.
 
 ---
 
