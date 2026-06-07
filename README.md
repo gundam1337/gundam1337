@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Omar Derkaoui 👋
+# Hi, I'm Omar Derkaoui 
 
 ### Backend-leaning Full-Stack Engineer
 
