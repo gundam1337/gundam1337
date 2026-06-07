@@ -83,30 +83,6 @@ Upwork          Full-Stack Freelancer
 Education       Former Mathematics Teacher
 ```
 
----
-
-## Featured Project
-
-### Portfolio RAG System
-
-I built a smart portfolio assistant so recruiters can ask questions about my experience instead of reading a static CV.
-
-It retrieves from my real documents, reranks results, generates answers, cites sources, and avoids guessing when confidence is low.
-
-```txt
-NestJS · OpenAI · Cohere · Qdrant · Redis · Anthropic
-```
-
-<p align="left">
-  <a href="https://www.omarderkaoui.cc/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/gundam1337/portfolio-backend-">
-    <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## What I Build
 
