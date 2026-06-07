@@ -84,19 +84,6 @@ Education       Former Mathematics Teacher
 ```
 
 
-## What I Build
-
-* Backend APIs
-* Authentication systems
-* Onboarding and KYC flows
-* Full-stack web applications
-* Database schemas
-* API integrations
-* Real-time features
-* Clean production-ready code
-
----
-
 ## GitHub Activity
 
 <div align="center">
